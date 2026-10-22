@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+data/
+.pytest_cache/
+.DS_Store
+.idea/
+.bundle*.tgz
+_to_delete/
+.env.*
+!.env.example
+*.egg-info/
+.coverage
+htmlcov/

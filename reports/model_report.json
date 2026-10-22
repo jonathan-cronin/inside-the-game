@@ -1,0 +1,181 @@
+{
+  "n_train_matches": 340,
+  "n_test_matches": 60,
+  "xg": {
+    "train_shots": 7921,
+    "test_shots": 1454,
+    "log_loss": 0.3117,
+    "log_loss_baseline": 0.3632,
+    "brier": 0.0911,
+    "auc": 0.762,
+    "corr_with_truth": 0.943,
+    "mae_vs_truth": 0.0272,
+    "sum_pred": 158.3,
+    "sum_goals": 171,
+    "sum_truth": 159.0,
+    "calibration": [
+      {
+        "bin": "0.00-0.05",
+        "n": 545,
+        "pred": 0.032,
+        "actual": 0.029
+      },
+      {
+        "bin": "0.05-0.10",
+        "n": 316,
+        "pred": 0.075,
+        "actual": 0.095
+      },
+      {
+        "bin": "0.10-0.20",
+        "n": 417,
+        "pred": 0.146,
+        "actual": 0.153
+      },
+      {
+        "bin": "0.20-0.35",
+        "n": 138,
+        "pred": 0.24,
+        "actual": 0.283
+      },
+      {
+        "bin": "0.35-0.50",
+        "n": 12,
+        "pred": 0.409,
+        "actual": 0.333
+      },
+      {
+        "bin": "0.50-1.00",
+        "n": 26,
+        "pred": 0.705,
+        "actual": 0.692
+      }
+    ]
+  },
+  "pass_success": {
+    "train_passes": 374428,
+    "test_passes": 65669,
+    "log_loss": 0.3625,
+    "log_loss_baseline": 0.4755,
+    "auc": 0.777,
+    "corr_with_truth": 0.774,
+    "mae_vs_truth": 0.0579,
+    "calibration": [
+      {
+        "bin": "0.00-0.30",
+        "n": 3140,
+        "pred": 0.044,
+        "actual": 0.041
+      },
+      {
+        "bin": "0.30-0.50",
+        "n": 1084,
+        "pred": 0.404,
+        "actual": 0.423
+      },
+      {
+        "bin": "0.50-0.70",
+        "n": 3445,
+        "pred": 0.631,
+        "actual": 0.63
+      },
+      {
+        "bin": "0.70-0.80",
+        "n": 8203,
+        "pred": 0.759,
+        "actual": 0.765
+      },
+      {
+        "bin": "0.80-0.90",
+        "n": 22548,
+        "pred": 0.859,
+        "actual": 0.857
+      },
+      {
+        "bin": "0.90-1.01",
+        "n": 27249,
+        "pred": 0.93,
+        "actual": 0.929
+      }
+    ]
+  },
+  "carry_retention": {
+    "train": 95888,
+    "test": 16820,
+    "auc": 0.745,
+    "base_rate": 0.804
+  },
+  "xt": {
+    "grid": "16x12",
+    "iterations": 39,
+    "max": 0.15,
+    "own_half_mean": 0.0034,
+    "spearman_vs_truth_surface": 0.901
+  },
+  "win_probability": {
+    "ratings": {
+      "ASV": {
+        "xg_for": 0.787,
+        "xg_against": 1.881,
+        "matches": 108
+      },
+      "HBR": {
+        "xg_for": 1.216,
+        "xg_against": 1.485,
+        "matches": 113
+      },
+      "KGM": {
+        "xg_for": 1.428,
+        "xg_against": 0.897,
+        "matches": 114
+      },
+      "NGT": {
+        "xg_for": 1.383,
+        "xg_against": 1.323,
+        "matches": 113
+      },
+      "RVS": {
+        "xg_for": 1.132,
+        "xg_against": 0.851,
+        "matches": 117
+      },
+      "WBK": {
+        "xg_for": 1.213,
+        "xg_against": 0.793,
+        "matches": 115
+      }
+    },
+    "test_log_loss_by_minute": {
+      "0": {
+        "log_loss": 0.9297,
+        "brier": 0.55
+      },
+      "30": {
+        "log_loss": 0.8907,
+        "brier": 0.537
+      },
+      "60": {
+        "log_loss": 0.5894,
+        "brier": 0.3505
+      },
+      "75": {
+        "log_loss": 0.569,
+        "brier": 0.3559
+      },
+      "85": {
+        "log_loss": 0.4498,
+        "brier": 0.2615
+      }
+    },
+    "baseline_log_loss": 1.0762,
+    "coefficients": {
+      "is_home": 0.197,
+      "log_attack": 0.898,
+      "log_opp_defence": 0.922,
+      "score_diff": -0.036,
+      "score_diff_x_time": -0.227,
+      "red_diff": 0.281,
+      "recent_xg_share": 0.343
+    }
+  }
+}

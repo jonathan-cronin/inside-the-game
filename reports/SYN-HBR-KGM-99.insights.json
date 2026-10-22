@@ -1,0 +1,3275 @@
+{
+ "meta": {
+  "match_id": "SYN-HBR-KGM-99",
+  "competition": "Synthetic League",
+  "kickoff": "2026-10-24T15:00:00Z",
+  "seed": 99,
+  "home": {
+   "id": "HBR",
+   "name": "Harbour City",
+   "short": "Harbour",
+   "formation": "3-5-2",
+   "colours": [
+    "#00897B",
+    "#FFFFFF"
+   ]
+  },
+  "away": {
+   "id": "KGM",
+   "name": "Kingsmere FC",
+   "short": "Kingsmere",
+   "formation": "4-2-3-1",
+   "colours": [
+    "#6A1B9A",
+    "#F2C94C"
+   ]
+  },
+  "final_score": {
+   "home": 1,
+   "away": 1
+  },
+  "coordinate_system": "StatsBomb-style 120x80; every location is in the acting team's frame, attacking towards x=120"
+ },
+ "insights": [
+  {
+   "id": "ins-SYN-HBR-KGM-99-00026-sprint",
+   "event_id": "SYN-HBR-KGM-99-00026",
+   "kind": "sprint",
+   "importance": 0.2,
+   "minute": 0,
+   "second": 59,
+   "elapsed_s": 59.08,
+   "team": {
+    "id": "HBR",
+    "name": "Harbour City"
+   },
+   "team_is_home": true,
+   "player": {
+    "id": "HBR-06",
+    "name": "Max Almeida",
+    "position": "CB"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "location": [
+    17.1,
+    43.9
+   ],
+   "facts": {
+    "player": "Arlo Ibarra",
+    "player_id": "HBR-03",
+    "speed_kmh": 30.1,
+    "team_id": "HBR"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00026-sprint",
+   "event_id": "SYN-HBR-KGM-99-00026",
+   "kind": "sprint",
+   "importance": 0.2,
+   "minute": 0,
+   "second": 59,
+   "elapsed_s": 59.08,
+   "team": {
+    "id": "HBR",
+    "name": "Harbour City"
+   },
+   "team_is_home": true,
+   "player": {
+    "id": "HBR-06",
+    "name": "Max Almeida",
+    "position": "CB"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "location": [
+    17.1,
+    43.9
+   ],
+   "facts": {
+    "player": "Javier Kettering",
+    "player_id": "HBR-02",
+    "speed_kmh": 30.2,
+    "team_id": "HBR"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00026-sprint",
+   "event_id": "SYN-HBR-KGM-99-00026",
+   "kind": "sprint",
+   "importance": 0.2,
+   "minute": 0,
+   "second": 59,
+   "elapsed_s": 59.08,
+   "team": {
+    "id": "HBR",
+    "name": "Harbour City"
+   },
+   "team_is_home": true,
+   "player": {
+    "id": "HBR-06",
+    "name": "Max Almeida",
+    "position": "CB"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "location": [
+    17.1,
+    43.9
+   ],
+   "facts": {
+    "player": "Mateo Wakefield",
+    "player_id": "HBR-08",
+    "speed_kmh": 30.1,
+    "team_id": "HBR"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00026-sprint",
+   "event_id": "SYN-HBR-KGM-99-00026",
+   "kind": "sprint",
+   "importance": 0.2,
+   "minute": 0,
+   "second": 59,
+   "elapsed_s": 59.08,
+   "team": {
+    "id": "HBR",
+    "name": "Harbour City"
+   },
+   "team_is_home": true,
+   "player": {
+    "id": "HBR-06",
+    "name": "Max Almeida",
+    "position": "CB"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "location": [
+    17.1,
+    43.9
+   ],
+   "facts": {
+    "player": "Omar Sato",
+    "player_id": "HBR-19",
+    "speed_kmh": 30.2,
+    "team_id": "HBR"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00026-sprint",
+   "event_id": "SYN-HBR-KGM-99-00026",
+   "kind": "sprint",
+   "importance": 0.2,
+   "minute": 0,
+   "second": 59,
+   "elapsed_s": 59.08,
+   "team": {
+    "id": "HBR",
+    "name": "Harbour City"
+   },
+   "team_is_home": true,
+   "player": {
+    "id": "HBR-06",
+    "name": "Max Almeida",
+    "position": "CB"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "location": [
+    17.1,
+    43.9
+   ],
+   "facts": {
+    "player": "Theo Quinn",
+    "player_id": "KGM-03",
+    "speed_kmh": 30.7,
+    "team_id": "KGM"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00026-sprint",
+   "event_id": "SYN-HBR-KGM-99-00026",
+   "kind": "sprint",
+   "importance": 0.2,
+   "minute": 0,
+   "second": 59,
+   "elapsed_s": 59.08,
+   "team": {
+    "id": "HBR",
+    "name": "Harbour City"
+   },
+   "team_is_home": true,
+   "player": {
+    "id": "HBR-06",
+    "name": "Max Almeida",
+    "position": "CB"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "location": [
+    17.1,
+    43.9
+   ],
+   "facts": {
+    "player": "Jaden Kettering",
+    "player_id": "KGM-02",
+    "speed_kmh": 31.0,
+    "team_id": "KGM"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00026-sprint",
+   "event_id": "SYN-HBR-KGM-99-00026",
+   "kind": "sprint",
+   "importance": 0.2,
+   "minute": 0,
+   "second": 59,
+   "elapsed_s": 59.08,
+   "team": {
+    "id": "HBR",
+    "name": "Harbour City"
+   },
+   "team_is_home": true,
+   "player": {
+    "id": "HBR-06",
+    "name": "Max Almeida",
+    "position": "CB"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "location": [
+    17.1,
+    43.9
+   ],
+   "facts": {
+    "player": "Adebayo Ndiaye",
+    "player_id": "KGM-12",
+    "speed_kmh": 30.1,
+    "team_id": "KGM"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00026-sprint",
+   "event_id": "SYN-HBR-KGM-99-00026",
+   "kind": "sprint",
+   "importance": 0.2,
+   "minute": 0,
+   "second": 59,
+   "elapsed_s": 59.08,
+   "team": {
+    "id": "HBR",
+    "name": "Harbour City"
+   },
+   "team_is_home": true,
+   "player": {
+    "id": "HBR-06",
+    "name": "Max Almeida",
+    "position": "CB"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "location": [
+    17.1,
+    43.9
+   ],
+   "facts": {
+    "player": "Aaron Hollis",
+    "player_id": "KGM-11",
+    "speed_kmh": 30.9,
+    "team_id": "KGM"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00026-sprint",
+   "event_id": "SYN-HBR-KGM-99-00026",
+   "kind": "sprint",
+   "importance": 0.2,
+   "minute": 0,
+   "second": 59,
+   "elapsed_s": 59.08,
+   "team": {
+    "id": "HBR",
+    "name": "Harbour City"
+   },
+   "team_is_home": true,
+   "player": {
+    "id": "HBR-06",
+    "name": "Max Almeida",
+    "position": "CB"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "location": [
+    17.1,
+    43.9
+   ],
+   "facts": {
+    "player": "Arlo Ramos",
+    "player_id": "KGM-10",
+    "speed_kmh": 30.1,
+    "team_id": "KGM"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00026-sprint",
+   "event_id": "SYN-HBR-KGM-99-00026",
+   "kind": "sprint",
+   "importance": 0.2,
+   "minute": 0,
+   "second": 59,
+   "elapsed_s": 59.08,
+   "team": {
+    "id": "HBR",
+    "name": "Harbour City"
+   },
+   "team_is_home": true,
+   "player": {
+    "id": "HBR-06",
+    "name": "Max Almeida",
+    "position": "CB"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "location": [
+    17.1,
+    43.9
+   ],
+   "facts": {
+    "player": "Darius Whitfield",
+    "player_id": "KGM-09",
+    "speed_kmh": 30.2,
+    "team_id": "KGM"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00102-difficult_pass",
+   "event_id": "SYN-HBR-KGM-99-00102",
+   "kind": "difficult_pass",
+   "importance": 0.411,
+   "minute": 3,
+   "second": 54,
+   "elapsed_s": 234.92,
+   "team": {
+    "id": "HBR",
+    "name": "Harbour City"
+   },
+   "team_is_home": true,
+   "player": {
+    "id": "HBR-05",
+    "name": "Felipe Brightwell",
+    "position": "LCB"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "location": [
+    16.4,
+    19.5
+   ],
+   "facts": {
+    "difficulty": 62,
+    "length_m": 38.7,
+    "ball_speed_kmh": 82.0,
+    "recipient": "Arlo Ibarra",
+    "xt_added": 0.0029,
+    "through_ball": false,
+    "cross": false
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00119-missed_option",
+   "event_id": "SYN-HBR-KGM-99-00119",
+   "kind": "missed_option",
+   "importance": 0.788,
+   "minute": 4,
+   "second": 27,
+   "elapsed_s": 267.96,
+   "team": {
+    "id": "HBR",
+    "name": "Harbour City"
+   },
+   "team_is_home": true,
+   "player": {
+    "id": "HBR-09",
+    "name": "Oscar Gallagher",
+    "position": "LS"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "location": [
+    110.5,
+    35.7
+   ],
+   "facts": {
+    "chosen": {
+     "kind": "pass",
+     "end": [
+      111.3,
+      46.8
+     ],
+     "p_success": 0.7243,
+     "value_if_success": 0.0805,
+     "cost_if_failed": 0.0023,
+     "ev": 0.0577,
+     "target_id": "HBR-19",
+     "target_name": "Omar Sato",
+     "xg": null,
+     "detail": {
+      "length_m": 9.5,
+      "lane_m": 0.9,
+      "receiver_space_m": 1.3,
+      "difficulty": 28,
+      "cross": false,
+      "through_ball": false,
+      "outcome": "Complete"
+     }
+    },
+    "better_option": {
+     "kind": "shot",
+     "end": [
+      120.0,
+      40.0
+     ],
+     "p_success": 0.1325,
+     "value_if_success": 1.0,
+     "cost_if_failed": 0.0021,
+     "ev": 0.1307,
+     "target_id": null,
+     "target_name": null,
+     "xg": 0.1325,
+     "detail": {
+      "distance_m": 9.1,
+      "blockers": 1,
+      "pressure_m": 1.2
+     }
+    },
+    "decision_value": -0.073,
+    "decision_wp": -0.0197,
+    "n_options": 12,
+    "rank": 2,
+    "goal_wp_swing": 0.2697
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00123-shot",
+   "event_id": "SYN-HBR-KGM-99-00123",
+   "kind": "shot",
+   "importance": 0.297,
+   "minute": 4,
+   "second": 40,
+   "elapsed_s": 280.66,
+   "team": {
+    "id": "HBR",
+    "name": "Harbour City"
+   },
+   "team_is_home": true,
+   "player": {
+    "id": "HBR-19",
+    "name": "Omar Sato",
+    "position": "RS"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "location": [
+    113.3,
+    46.5
+   ],
+   "facts": {
+    "xg": 0.147,
+    "outcome": "Off T",
+    "body_part": "Left Foot",
+    "shot_speed_kmh": 101.2,
+    "distance_m": 8.1,
+    "type": "Open Play"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00218-shot",
+   "event_id": "SYN-HBR-KGM-99-00218",
+   "kind": "shot",
+   "importance": 0.169,
+   "minute": 8,
+   "second": 25,
+   "elapsed_s": 505.61,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-09",
+    "name": "Darius Whitfield",
+    "position": "ST"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "location": [
+    80.8,
+    36.5
+   ],
+   "facts": {
+    "xg": 0.019,
+    "outcome": "Off T",
+    "body_part": "Left Foot",
+    "shot_speed_kmh": 109.8,
+    "distance_m": 34.4,
+    "type": "Open Play"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00353-shot",
+   "event_id": "SYN-HBR-KGM-99-00353",
+   "kind": "shot",
+   "importance": 0.194,
+   "minute": 14,
+   "second": 51,
+   "elapsed_s": 891.2,
+   "team": {
+    "id": "HBR",
+    "name": "Harbour City"
+   },
+   "team_is_home": true,
+   "player": {
+    "id": "HBR-19",
+    "name": "Omar Sato",
+    "position": "RS"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "location": [
+    109.2,
+    41.3
+   ],
+   "facts": {
+    "xg": 0.044,
+    "outcome": "Saved",
+    "body_part": "Left Foot",
+    "shot_speed_kmh": 97.0,
+    "distance_m": 9.5,
+    "type": "Open Play"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00482-shot",
+   "event_id": "SYN-HBR-KGM-99-00482",
+   "kind": "shot",
+   "importance": 0.363,
+   "minute": 20,
+   "second": 34,
+   "elapsed_s": 1234.76,
+   "team": {
+    "id": "HBR",
+    "name": "Harbour City"
+   },
+   "team_is_home": true,
+   "player": {
+    "id": "HBR-09",
+    "name": "Oscar Gallagher",
+    "position": "LS"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "location": [
+    112.3,
+    40.6
+   ],
+   "facts": {
+    "xg": 0.213,
+    "outcome": "Off T",
+    "body_part": "Right Foot",
+    "shot_speed_kmh": 100.7,
+    "distance_m": 6.8,
+    "type": "Open Play"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00541-shot",
+   "event_id": "SYN-HBR-KGM-99-00541",
+   "kind": "shot",
+   "importance": 0.378,
+   "minute": 23,
+   "second": 59,
+   "elapsed_s": 1439.79,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-09",
+    "name": "Darius Whitfield",
+    "position": "ST"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "location": [
+    112.0,
+    40.2
+   ],
+   "facts": {
+    "xg": 0.228,
+    "outcome": "Blocked",
+    "body_part": "Right Foot",
+    "shot_speed_kmh": 74.6,
+    "distance_m": 7.0,
+    "type": "Open Play"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00547-missed_option",
+   "event_id": "SYN-HBR-KGM-99-00547",
+   "kind": "missed_option",
+   "importance": 0.723,
+   "minute": 24,
+   "second": 4,
+   "elapsed_s": 1444.05,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-09",
+    "name": "Darius Whitfield",
+    "position": "ST"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "location": [
+    107.1,
+    39.7
+   ],
+   "facts": {
+    "chosen": {
+     "kind": "pass",
+     "end": [
+      101.3,
+      38.0
+     ],
+     "p_success": 0.9453,
+     "value_if_success": 0.0329,
+     "cost_if_failed": 0.0026,
+     "ev": 0.0309,
+     "target_id": "KGM-10",
+     "target_name": "Arlo Ramos",
+     "xg": null,
+     "detail": {
+      "length_m": 5.3,
+      "lane_m": 40.0,
+      "receiver_space_m": 2.7,
+      "difficulty": 5,
+      "cross": false,
+      "through_ball": false,
+      "outcome": "Complete"
+     }
+    },
+    "better_option": {
+     "kind": "shot",
+     "end": [
+      120.0,
+      40.0
+     ],
+     "p_success": 0.0951,
+     "value_if_success": 1.0,
+     "cost_if_failed": 0.0021,
+     "ev": 0.0932,
+     "target_id": null,
+     "target_name": null,
+     "xg": 0.0951,
+     "detail": {
+      "distance_m": 11.3,
+      "blockers": 0,
+      "pressure_m": 2.4
+     }
+    },
+    "decision_value": -0.0622,
+    "decision_wp": -0.0198,
+    "n_options": 12,
+    "rank": 4,
+    "goal_wp_swing": 0.3173
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00552-shot",
+   "event_id": "SYN-HBR-KGM-99-00552",
+   "kind": "shot",
+   "importance": 0.326,
+   "minute": 24,
+   "second": 13,
+   "elapsed_s": 1453.6,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-09",
+    "name": "Darius Whitfield",
+    "position": "ST"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "location": [
+    111.9,
+    40.9
+   ],
+   "facts": {
+    "xg": 0.176,
+    "outcome": "Saved",
+    "body_part": "Right Foot",
+    "shot_speed_kmh": 100.4,
+    "distance_m": 7.1,
+    "type": "Open Play"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00563-momentum_shift",
+   "event_id": "SYN-HBR-KGM-99-00563",
+   "kind": "momentum_shift",
+   "importance": 0.5,
+   "minute": 24,
+   "second": 42,
+   "elapsed_s": 1482.89,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-10",
+    "name": "Arlo Ramos",
+    "position": "CAM"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "location": [
+    99.2,
+    38.4
+   ],
+   "facts": {
+    "team_id": "KGM",
+    "team_name": "Kingsmere FC",
+    "home_share": 0.295,
+    "away_share": 0.705
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00616-shot",
+   "event_id": "SYN-HBR-KGM-99-00616",
+   "kind": "shot",
+   "importance": 0.28,
+   "minute": 26,
+   "second": 31,
+   "elapsed_s": 1591.57,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-09",
+    "name": "Darius Whitfield",
+    "position": "ST"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "location": [
+    109.4,
+    41.2
+   ],
+   "facts": {
+    "xg": 0.13,
+    "outcome": "Saved",
+    "body_part": "Left Foot",
+    "shot_speed_kmh": 92.0,
+    "distance_m": 9.3,
+    "type": "Open Play"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00680-shot",
+   "event_id": "SYN-HBR-KGM-99-00680",
+   "kind": "shot",
+   "importance": 0.233,
+   "minute": 28,
+   "second": 47,
+   "elapsed_s": 1727.81,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-10",
+    "name": "Arlo Ramos",
+    "position": "CAM"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "location": [
+    110.0,
+    39.6
+   ],
+   "facts": {
+    "xg": 0.083,
+    "outcome": "Blocked",
+    "body_part": "Left Foot",
+    "shot_speed_kmh": 93.2,
+    "distance_m": 8.8,
+    "type": "Open Play"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00787-missed_option",
+   "event_id": "SYN-HBR-KGM-99-00787",
+   "kind": "missed_option",
+   "importance": 0.9,
+   "minute": 33,
+   "second": 30,
+   "elapsed_s": 2010.15,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-09",
+    "name": "Darius Whitfield",
+    "position": "ST"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "location": [
+    101.1,
+    40.7
+   ],
+   "facts": {
+    "chosen": {
+     "kind": "pass",
+     "end": [
+      98.7,
+      37.8
+     ],
+     "p_success": 0.9535,
+     "value_if_success": 0.0292,
+     "cost_if_failed": 0.0028,
+     "ev": 0.0277,
+     "target_id": "KGM-10",
+     "target_name": "Arlo Ramos",
+     "xg": null,
+     "detail": {
+      "length_m": 3.2,
+      "lane_m": 6.9,
+      "receiver_space_m": 4.9,
+      "difficulty": 5,
+      "cross": false,
+      "through_ball": false,
+      "outcome": "Complete"
+     }
+    },
+    "better_option": {
+     "kind": "shot",
+     "end": [
+      120.0,
+      40.0
+     ],
+     "p_success": 0.1463,
+     "value_if_success": 1.0,
+     "cost_if_failed": 0.0021,
+     "ev": 0.1445,
+     "target_id": null,
+     "target_name": null,
+     "xg": 0.1463,
+     "detail": {
+      "distance_m": 16.5,
+      "blockers": 0,
+      "pressure_m": 2.6
+     }
+    },
+    "decision_value": -0.1168,
+    "decision_wp": -0.0394,
+    "n_options": 12,
+    "rank": 2,
+    "goal_wp_swing": 0.3376
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00792-shot",
+   "event_id": "SYN-HBR-KGM-99-00792",
+   "kind": "shot",
+   "importance": 0.329,
+   "minute": 33,
+   "second": 37,
+   "elapsed_s": 2017.49,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-09",
+    "name": "Darius Whitfield",
+    "position": "ST"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "location": [
+    111.2,
+    38.5
+   ],
+   "facts": {
+    "xg": 0.179,
+    "outcome": "Off T",
+    "body_part": "Right Foot",
+    "shot_speed_kmh": 92.0,
+    "distance_m": 7.8,
+    "type": "Open Play"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00821-shot",
+   "event_id": "SYN-HBR-KGM-99-00821",
+   "kind": "shot",
+   "importance": 0.339,
+   "minute": 34,
+   "second": 38,
+   "elapsed_s": 2078.8,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-10",
+    "name": "Arlo Ramos",
+    "position": "CAM"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "location": [
+    109.3,
+    39.5
+   ],
+   "facts": {
+    "xg": 0.189,
+    "outcome": "Post",
+    "body_part": "Right Foot",
+    "shot_speed_kmh": 107.9,
+    "distance_m": 9.4,
+    "type": "Open Play"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00866-missed_option",
+   "event_id": "SYN-HBR-KGM-99-00866",
+   "kind": "missed_option",
+   "importance": 0.841,
+   "minute": 36,
+   "second": 53,
+   "elapsed_s": 2213.29,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-10",
+    "name": "Arlo Ramos",
+    "position": "CAM"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "location": [
+    106.4,
+    40.6
+   ],
+   "facts": {
+    "chosen": {
+     "kind": "dribble",
+     "end": [
+      111.4,
+      40.6
+     ],
+     "p_success": 0.5,
+     "value_if_success": 0.1017,
+     "cost_if_failed": 0.0024,
+     "ev": 0.0496,
+     "target_id": null,
+     "target_name": null,
+     "xg": null,
+     "detail": {
+      "outcome": "Incomplete"
+     }
+    },
+    "better_option": {
+     "kind": "shot",
+     "end": [
+      120.0,
+      40.0
+     ],
+     "p_success": 0.1334,
+     "value_if_success": 1.0,
+     "cost_if_failed": 0.0021,
+     "ev": 0.1315,
+     "target_id": null,
+     "target_name": null,
+     "xg": 0.1334,
+     "detail": {
+      "distance_m": 11.9,
+      "blockers": 1,
+      "pressure_m": 2.0
+     }
+    },
+    "decision_value": -0.0819,
+    "decision_wp": -0.0277,
+    "n_options": 12,
+    "rank": 2,
+    "goal_wp_swing": 0.3378
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00942-great_decision",
+   "event_id": "SYN-HBR-KGM-99-00942",
+   "kind": "great_decision",
+   "importance": 0.591,
+   "minute": 40,
+   "second": 22,
+   "elapsed_s": 2422.22,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-11",
+    "name": "Aaron Hollis",
+    "position": "LAM"
+   },
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "location": [
+    96.9,
+    33.9
+   ],
+   "facts": {
+    "chosen": {
+     "kind": "pass",
+     "end": [
+      110.5,
+      39.3
+     ],
+     "p_success": 0.9571,
+     "value_if_success": 0.0926,
+     "cost_if_failed": 0.0027,
+     "ev": 0.0885,
+     "target_id": "KGM-09",
+     "target_name": "Darius Whitfield",
+     "xg": null,
+     "detail": {
+      "length_m": 12.8,
+      "lane_m": 2.5,
+      "receiver_space_m": 6.3,
+      "difficulty": 4,
+      "cross": false,
+      "through_ball": true,
+      "outcome": "Complete"
+     }
+    },
+    "next_best": {
+     "kind": "pass",
+     "end": [
+      101.5,
+      35.0
+     ],
+     "p_success": 0.9085,
+     "value_if_success": 0.0337,
+     "cost_if_failed": 0.0027,
+     "ev": 0.0304,
+     "target_id": "KGM-10",
+     "target_name": "Arlo Ramos",
+     "xg": null,
+     "detail": {
+      "length_m": 4.1,
+      "lane_m": 2.1,
+      "receiver_space_m": 2.5,
+      "difficulty": 9
+     }
+    },
+    "decision_value": 0.0581,
+    "decision_wp": 0.0208,
+    "n_options": 12
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00944-goal",
+   "event_id": "SYN-HBR-KGM-99-00944",
+   "kind": "goal",
+   "importance": 1.0,
+   "minute": 40,
+   "second": 26,
+   "elapsed_s": 2426.74,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-09",
+    "name": "Darius Whitfield",
+    "position": "ST"
+   },
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "location": [
+    112.0,
+    39.6
+   ],
+   "facts": {
+    "xg": 0.204,
+    "outcome": "Goal",
+    "body_part": "Right Foot",
+    "shot_speed_kmh": 102.8,
+    "distance_m": 7.0,
+    "type": "Open Play",
+    "wp_before": {
+     "home": 0.1853,
+     "draw": 0.3557,
+     "away": 0.459
+    },
+    "wp_after": {
+     "home": 0.0566,
+     "draw": 0.1752,
+     "away": 0.7682
+    },
+    "wp_swing": 0.3092,
+    "xpts_swing": 0.747,
+    "situation": "go_ahead",
+    "score": {
+     "home": 0,
+     "away": 1
+    },
+    "player_goals": 1
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-00966-red_card",
+   "event_id": "SYN-HBR-KGM-99-00966",
+   "kind": "red_card",
+   "importance": 0.8,
+   "minute": 42,
+   "second": 7,
+   "elapsed_s": 2527.1,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-10",
+    "name": "Arlo Ramos",
+    "position": "CAM"
+   },
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "location": [
+    89.5,
+    40.4
+   ],
+   "facts": {
+    "wp_before": {
+     "home": 0.055880387989393314,
+     "draw": 0.17748197576452568,
+     "away": 0.766637636246081
+    },
+    "wp_after": {
+     "home": 0.10631954636265457,
+     "draw": 0.23888073551752959,
+     "away": 0.6547997181198157
+    }
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-01181-shot",
+   "event_id": "SYN-HBR-KGM-99-01181",
+   "kind": "shot",
+   "importance": 0.211,
+   "minute": 47,
+   "second": 58,
+   "elapsed_s": 3109.48,
+   "team": {
+    "id": "HBR",
+    "name": "Harbour City"
+   },
+   "team_is_home": true,
+   "player": {
+    "id": "HBR-09",
+    "name": "Oscar Gallagher",
+    "position": "LS"
+   },
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "location": [
+    98.4,
+    49.0
+   ],
+   "facts": {
+    "xg": 0.061,
+    "outcome": "Off T",
+    "body_part": "Right Foot",
+    "shot_speed_kmh": 96.0,
+    "distance_m": 20.4,
+    "type": "Open Play"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-01210-milestone",
+   "event_id": "SYN-HBR-KGM-99-01210",
+   "kind": "milestone",
+   "importance": 0.15,
+   "minute": 49,
+   "second": 20,
+   "elapsed_s": 3191.49,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-09",
+    "name": "Darius Whitfield",
+    "position": "ST"
+   },
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "location": [
+    56.3,
+    33.1
+   ],
+   "facts": {
+    "what": "50 completed passes",
+    "pass_completion": 0.746
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-01238-difficult_pass",
+   "event_id": "SYN-HBR-KGM-99-01238",
+   "kind": "difficult_pass",
+   "importance": 0.603,
+   "minute": 50,
+   "second": 40,
+   "elapsed_s": 3272.1,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-07",
+    "name": "Aaron Mansour",
+    "position": "RAM"
+   },
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "location": [
+    119.5,
+    79.5
+   ],
+   "facts": {
+    "difficulty": 60,
+    "length_m": 30.5,
+    "ball_speed_kmh": 69.4,
+    "recipient": "Darius Whitfield",
+    "xt_added": 0.1015,
+    "through_ball": false,
+    "cross": true
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-01240-shot",
+   "event_id": "SYN-HBR-KGM-99-01240",
+   "kind": "shot",
+   "importance": 0.341,
+   "minute": 50,
+   "second": 45,
+   "elapsed_s": 3277.19,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-09",
+    "name": "Darius Whitfield",
+    "position": "ST"
+   },
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "location": [
+    115.3,
+    43.0
+   ],
+   "facts": {
+    "xg": 0.191,
+    "outcome": "Saved",
+    "body_part": "Left Foot",
+    "shot_speed_kmh": 101.6,
+    "distance_m": 4.8,
+    "type": "Open Play"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-01292-difficult_pass",
+   "event_id": "SYN-HBR-KGM-99-01292",
+   "kind": "difficult_pass",
+   "importance": 0.537,
+   "minute": 52,
+   "second": 49,
+   "elapsed_s": 3400.9,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-07",
+    "name": "Aaron Mansour",
+    "position": "RAM"
+   },
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "location": [
+    119.5,
+    79.5
+   ],
+   "facts": {
+    "difficulty": 64,
+    "length_m": 32.4,
+    "ball_speed_kmh": 81.8,
+    "recipient": "Darius Whitfield",
+    "xt_added": 0.0635,
+    "through_ball": false,
+    "cross": true
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-01294-shot",
+   "event_id": "SYN-HBR-KGM-99-01294",
+   "kind": "shot",
+   "importance": 0.15,
+   "minute": 52,
+   "second": 53,
+   "elapsed_s": 3404.73,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-09",
+    "name": "Darius Whitfield",
+    "position": "ST"
+   },
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "location": [
+    110.7,
+    42.5
+   ],
+   "facts": {
+    "xg": 0.0,
+    "outcome": "Off T",
+    "body_part": "Head",
+    "shot_speed_kmh": 71.8,
+    "distance_m": null,
+    "type": "Open Play"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-01302-momentum_shift",
+   "event_id": "SYN-HBR-KGM-99-01302",
+   "kind": "momentum_shift",
+   "importance": 0.5,
+   "minute": 53,
+   "second": 35,
+   "elapsed_s": 3446.5,
+   "team": {
+    "id": "HBR",
+    "name": "Harbour City"
+   },
+   "team_is_home": true,
+   "player": {
+    "id": "HBR-02",
+    "name": "Javier Kettering",
+    "position": "RWB"
+   },
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "location": [
+    63.7,
+    69.1
+   ],
+   "facts": {
+    "team_id": "KGM",
+    "team_name": "Kingsmere FC",
+    "home_share": 0.3,
+    "away_share": 0.7
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-01487-goal",
+   "event_id": "SYN-HBR-KGM-99-01487",
+   "kind": "goal",
+   "importance": 1.0,
+   "minute": 60,
+   "second": 2,
+   "elapsed_s": 3834.37,
+   "team": {
+    "id": "HBR",
+    "name": "Harbour City"
+   },
+   "team_is_home": true,
+   "player": {
+    "id": "HBR-09",
+    "name": "Oscar Gallagher",
+    "position": "LS"
+   },
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "location": [
+    111.7,
+    36.2
+   ],
+   "facts": {
+    "xg": 0.173,
+    "outcome": "Goal",
+    "body_part": "Left Foot",
+    "shot_speed_kmh": 104.9,
+    "distance_m": 7.9,
+    "type": "Open Play",
+    "wp_before": {
+     "home": 0.088,
+     "draw": 0.2555,
+     "away": 0.6566
+    },
+    "wp_after": {
+     "home": 0.2786,
+     "draw": 0.4954,
+     "away": 0.226
+    },
+    "wp_swing": 0.1906,
+    "xpts_swing": 0.812,
+    "situation": "equaliser",
+    "score": {
+     "home": 1,
+     "away": 1
+    },
+    "player_goals": 1
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-01488-substitution",
+   "event_id": "SYN-HBR-KGM-99-01488",
+   "kind": "substitution",
+   "importance": 0.15,
+   "minute": 61,
+   "second": 13,
+   "elapsed_s": 3904.77,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-11",
+    "name": "Aaron Hollis",
+    "position": "LAM"
+   },
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "location": null,
+   "facts": {
+    "replacement": "Enzo Abara"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-01732-substitution",
+   "event_id": "SYN-HBR-KGM-99-01732",
+   "kind": "substitution",
+   "importance": 0.15,
+   "minute": 71,
+   "second": 50,
+   "elapsed_s": 4541.88,
+   "team": {
+    "id": "HBR",
+    "name": "Harbour City"
+   },
+   "team_is_home": true,
+   "player": {
+    "id": "HBR-03",
+    "name": "Arlo Ibarra",
+    "position": "LWB"
+   },
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "location": null,
+   "facts": {
+    "replacement": "Isaac Ashworth"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-01733-substitution",
+   "event_id": "SYN-HBR-KGM-99-01733",
+   "kind": "substitution",
+   "importance": 0.15,
+   "minute": 71,
+   "second": 50,
+   "elapsed_s": 4541.88,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-07",
+    "name": "Aaron Mansour",
+    "position": "RAM"
+   },
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "location": null,
+   "facts": {
+    "replacement": "Oisin Udeh"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-01738-substitution",
+   "event_id": "SYN-HBR-KGM-99-01738",
+   "kind": "substitution",
+   "importance": 0.15,
+   "minute": 72,
+   "second": 15,
+   "elapsed_s": 4566.94,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-04",
+    "name": "Finn Varga",
+    "position": "RCB"
+   },
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "location": null,
+   "facts": {
+    "replacement": "Javier Costa"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-01768-shot",
+   "event_id": "SYN-HBR-KGM-99-01768",
+   "kind": "shot",
+   "importance": 0.167,
+   "minute": 73,
+   "second": 10,
+   "elapsed_s": 4621.8,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-09",
+    "name": "Darius Whitfield",
+    "position": "ST"
+   },
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "location": [
+    92.0,
+    26.6
+   ],
+   "facts": {
+    "xg": 0.017,
+    "outcome": "Saved",
+    "body_part": "Right Foot",
+    "shot_speed_kmh": 109.2,
+    "distance_m": 27.0,
+    "type": "Open Play"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-01827-shot",
+   "event_id": "SYN-HBR-KGM-99-01827",
+   "kind": "shot",
+   "importance": 0.318,
+   "minute": 75,
+   "second": 39,
+   "elapsed_s": 4771.16,
+   "team": {
+    "id": "HBR",
+    "name": "Harbour City"
+   },
+   "team_is_home": true,
+   "player": {
+    "id": "HBR-19",
+    "name": "Omar Sato",
+    "position": "RS"
+   },
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "location": [
+    112.0,
+    42.5
+   ],
+   "facts": {
+    "xg": 0.168,
+    "outcome": "Off T",
+    "body_part": "Right Foot",
+    "shot_speed_kmh": 112.5,
+    "distance_m": 7.3,
+    "type": "Open Play"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-01858-milestone",
+   "event_id": "SYN-HBR-KGM-99-01858",
+   "kind": "milestone",
+   "importance": 0.15,
+   "minute": 77,
+   "second": 1,
+   "elapsed_s": 4853.08,
+   "team": {
+    "id": "HBR",
+    "name": "Harbour City"
+   },
+   "team_is_home": true,
+   "player": {
+    "id": "HBR-16",
+    "name": "Tariq Adeyemi",
+    "position": "CDM"
+   },
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "location": [
+    32.5,
+    41.1
+   ],
+   "facts": {
+    "what": "50 completed passes",
+    "pass_completion": 0.794
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-01935-substitution",
+   "event_id": "SYN-HBR-KGM-99-01935",
+   "kind": "substitution",
+   "importance": 0.15,
+   "minute": 80,
+   "second": 19,
+   "elapsed_s": 5050.89,
+   "team": {
+    "id": "HBR",
+    "name": "Harbour City"
+   },
+   "team_is_home": true,
+   "player": {
+    "id": "HBR-09",
+    "name": "Oscar Gallagher",
+    "position": "LS"
+   },
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "location": null,
+   "facts": {
+    "replacement": "Ryo Varga"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-01940-milestone",
+   "event_id": "SYN-HBR-KGM-99-01940",
+   "kind": "milestone",
+   "importance": 0.15,
+   "minute": 80,
+   "second": 29,
+   "elapsed_s": 5060.81,
+   "team": {
+    "id": "HBR",
+    "name": "Harbour City"
+   },
+   "team_is_home": true,
+   "player": {
+    "id": "HBR-19",
+    "name": "Omar Sato",
+    "position": "RS"
+   },
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "location": [
+    70.8,
+    49.1
+   ],
+   "facts": {
+    "what": "50 completed passes",
+    "pass_completion": 0.735
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-02023-shot",
+   "event_id": "SYN-HBR-KGM-99-02023",
+   "kind": "shot",
+   "importance": 0.397,
+   "minute": 83,
+   "second": 14,
+   "elapsed_s": 5226.11,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-09",
+    "name": "Darius Whitfield",
+    "position": "ST"
+   },
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "location": [
+    112.0,
+    39.6
+   ],
+   "facts": {
+    "xg": 0.247,
+    "outcome": "Saved",
+    "body_part": "Right Foot",
+    "shot_speed_kmh": 106.8,
+    "distance_m": 7.0,
+    "type": "Open Play"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-02029-shot",
+   "event_id": "SYN-HBR-KGM-99-02029",
+   "kind": "shot",
+   "importance": 0.42,
+   "minute": 83,
+   "second": 49,
+   "elapsed_s": 5261.2,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-09",
+    "name": "Darius Whitfield",
+    "position": "ST"
+   },
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "location": [
+    111.7,
+    38.9
+   ],
+   "facts": {
+    "xg": 0.27,
+    "outcome": "Off T",
+    "body_part": "Right Foot",
+    "shot_speed_kmh": 98.0,
+    "distance_m": 7.3,
+    "type": "Open Play"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-02030-substitution",
+   "event_id": "SYN-HBR-KGM-99-02030",
+   "kind": "substitution",
+   "importance": 0.15,
+   "minute": 84,
+   "second": 18,
+   "elapsed_s": 5290.09,
+   "team": {
+    "id": "HBR",
+    "name": "Harbour City"
+   },
+   "team_is_home": true,
+   "player": {
+    "id": "HBR-19",
+    "name": "Omar Sato",
+    "position": "RS"
+   },
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "location": null,
+   "facts": {
+    "replacement": "Omar Fofana"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-02059-milestone",
+   "event_id": "SYN-HBR-KGM-99-02059",
+   "kind": "milestone",
+   "importance": 0.15,
+   "minute": 85,
+   "second": 10,
+   "elapsed_s": 5341.54,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-12",
+    "name": "Adebayo Ndiaye",
+    "position": "RDM"
+   },
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "location": [
+    45.9,
+    46.6
+   ],
+   "facts": {
+    "what": "50 completed passes",
+    "pass_completion": 0.833
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-02080-milestone",
+   "event_id": "SYN-HBR-KGM-99-02080",
+   "kind": "milestone",
+   "importance": 0.15,
+   "minute": 85,
+   "second": 59,
+   "elapsed_s": 5391.07,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-06",
+    "name": "Kai Costa",
+    "position": "LDM"
+   },
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "location": [
+    30.0,
+    26.0
+   ],
+   "facts": {
+    "what": "50 completed passes",
+    "pass_completion": 0.893
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-02105-momentum_shift",
+   "event_id": "SYN-HBR-KGM-99-02105",
+   "kind": "momentum_shift",
+   "importance": 0.5,
+   "minute": 87,
+   "second": 28,
+   "elapsed_s": 5479.6,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-09",
+    "name": "Darius Whitfield",
+    "position": "ST"
+   },
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "location": [
+    76.1,
+    35.1
+   ],
+   "facts": {
+    "team_id": "KGM",
+    "team_name": "Kingsmere FC",
+    "home_share": 0.3,
+    "away_share": 0.7
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-02137-shot",
+   "event_id": "SYN-HBR-KGM-99-02137",
+   "kind": "shot",
+   "importance": 0.169,
+   "minute": 88,
+   "second": 25,
+   "elapsed_s": 5536.59,
+   "team": {
+    "id": "KGM",
+    "name": "Kingsmere FC"
+   },
+   "team_is_home": false,
+   "player": {
+    "id": "KGM-09",
+    "name": "Darius Whitfield",
+    "position": "ST"
+   },
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "location": [
+    89.6,
+    38.4
+   ],
+   "facts": {
+    "xg": 0.019,
+    "outcome": "Blocked",
+    "body_part": "Right Foot",
+    "shot_speed_kmh": 95.5,
+    "distance_m": 26.6,
+    "type": "Open Play"
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-02174-milestone",
+   "event_id": "SYN-HBR-KGM-99-02174",
+   "kind": "milestone",
+   "importance": 0.15,
+   "minute": 90,
+   "second": 45,
+   "elapsed_s": 5677.16,
+   "team": {
+    "id": "HBR",
+    "name": "Harbour City"
+   },
+   "team_is_home": true,
+   "player": {
+    "id": "HBR-06",
+    "name": "Max Almeida",
+    "position": "CB"
+   },
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "location": [
+    17.6,
+    31.1
+   ],
+   "facts": {
+    "what": "50 completed passes",
+    "pass_completion": 0.98
+   }
+  },
+  {
+   "id": "ins-SYN-HBR-KGM-99-02257-milestone",
+   "event_id": "SYN-HBR-KGM-99-02257",
+   "kind": "milestone",
+   "importance": 0.15,
+   "minute": 94,
+   "second": 6,
+   "elapsed_s": 5877.44,
+   "team": {
+    "id": "HBR",
+    "name": "Harbour City"
+   },
+   "team_is_home": true,
+   "player": {
+    "id": "HBR-10",
+    "name": "Hugo Sorensen",
+    "position": "RCM"
+   },
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "location": [
+    58.3,
+    55.4
+   ],
+   "facts": {
+    "what": "50 completed passes",
+    "pass_completion": 0.82
+   }
+  }
+ ],
+ "wp_timeline": [
+  {
+   "minute": 0,
+   "home": 0.2502,
+   "draw": 0.2623,
+   "away": 0.4875
+  },
+  {
+   "minute": 1,
+   "home": 0.25,
+   "draw": 0.2641,
+   "away": 0.4859
+  },
+  {
+   "minute": 2,
+   "home": 0.2497,
+   "draw": 0.2659,
+   "away": 0.4843
+  },
+  {
+   "minute": 3,
+   "home": 0.2495,
+   "draw": 0.2678,
+   "away": 0.4827
+  },
+  {
+   "minute": 4,
+   "home": 0.2493,
+   "draw": 0.2697,
+   "away": 0.4811
+  },
+  {
+   "minute": 5,
+   "home": 0.2769,
+   "draw": 0.2779,
+   "away": 0.4452
+  },
+  {
+   "minute": 6,
+   "home": 0.2765,
+   "draw": 0.2799,
+   "away": 0.4437
+  },
+  {
+   "minute": 7,
+   "home": 0.276,
+   "draw": 0.2818,
+   "away": 0.4421
+  },
+  {
+   "minute": 8,
+   "home": 0.2756,
+   "draw": 0.2838,
+   "away": 0.4406
+  },
+  {
+   "minute": 9,
+   "home": 0.2704,
+   "draw": 0.285,
+   "away": 0.4446
+  },
+  {
+   "minute": 10,
+   "home": 0.27,
+   "draw": 0.2871,
+   "away": 0.443
+  },
+  {
+   "minute": 11,
+   "home": 0.2695,
+   "draw": 0.2892,
+   "away": 0.4413
+  },
+  {
+   "minute": 12,
+   "home": 0.269,
+   "draw": 0.2914,
+   "away": 0.4396
+  },
+  {
+   "minute": 13,
+   "home": 0.2684,
+   "draw": 0.2936,
+   "away": 0.4379
+  },
+  {
+   "minute": 14,
+   "home": 0.2679,
+   "draw": 0.2959,
+   "away": 0.4362
+  },
+  {
+   "minute": 15,
+   "home": 0.2724,
+   "draw": 0.2992,
+   "away": 0.4284
+  },
+  {
+   "minute": 16,
+   "home": 0.2718,
+   "draw": 0.3016,
+   "away": 0.4266
+  },
+  {
+   "minute": 17,
+   "home": 0.2711,
+   "draw": 0.304,
+   "away": 0.4248
+  },
+  {
+   "minute": 18,
+   "home": 0.2705,
+   "draw": 0.3065,
+   "away": 0.423
+  },
+  {
+   "minute": 19,
+   "home": 0.2698,
+   "draw": 0.309,
+   "away": 0.4212
+  },
+  {
+   "minute": 20,
+   "home": 0.2484,
+   "draw": 0.3069,
+   "away": 0.4446
+  },
+  {
+   "minute": 21,
+   "home": 0.2743,
+   "draw": 0.3153,
+   "away": 0.4104
+  },
+  {
+   "minute": 22,
+   "home": 0.2735,
+   "draw": 0.318,
+   "away": 0.4085
+  },
+  {
+   "minute": 23,
+   "home": 0.2727,
+   "draw": 0.3208,
+   "away": 0.4066
+  },
+  {
+   "minute": 24,
+   "home": 0.2438,
+   "draw": 0.3173,
+   "away": 0.4389
+  },
+  {
+   "minute": 25,
+   "home": 0.2297,
+   "draw": 0.3162,
+   "away": 0.4541
+  },
+  {
+   "minute": 26,
+   "home": 0.2292,
+   "draw": 0.3192,
+   "away": 0.4516
+  },
+  {
+   "minute": 27,
+   "home": 0.2217,
+   "draw": 0.32,
+   "away": 0.4584
+  },
+  {
+   "minute": 28,
+   "home": 0.2211,
+   "draw": 0.3231,
+   "away": 0.4557
+  },
+  {
+   "minute": 29,
+   "home": 0.2171,
+   "draw": 0.3251,
+   "away": 0.4579
+  },
+  {
+   "minute": 30,
+   "home": 0.2132,
+   "draw": 0.3271,
+   "away": 0.4597
+  },
+  {
+   "minute": 31,
+   "home": 0.2126,
+   "draw": 0.3305,
+   "away": 0.4568
+  },
+  {
+   "minute": 32,
+   "home": 0.212,
+   "draw": 0.334,
+   "away": 0.4539
+  },
+  {
+   "minute": 33,
+   "home": 0.2114,
+   "draw": 0.3376,
+   "away": 0.451
+  },
+  {
+   "minute": 34,
+   "home": 0.2053,
+   "draw": 0.3391,
+   "away": 0.4556
+  },
+  {
+   "minute": 35,
+   "home": 0.2005,
+   "draw": 0.341,
+   "away": 0.4586
+  },
+  {
+   "minute": 36,
+   "home": 0.1853,
+   "draw": 0.3378,
+   "away": 0.4769
+  },
+  {
+   "minute": 37,
+   "home": 0.1847,
+   "draw": 0.3418,
+   "away": 0.4735
+  },
+  {
+   "minute": 38,
+   "home": 0.1842,
+   "draw": 0.3459,
+   "away": 0.4699
+  },
+  {
+   "minute": 39,
+   "home": 0.1864,
+   "draw": 0.3516,
+   "away": 0.462
+  },
+  {
+   "minute": 40,
+   "home": 0.1888,
+   "draw": 0.3575,
+   "away": 0.4536
+  },
+  {
+   "minute": 41,
+   "home": 0.0558,
+   "draw": 0.1756,
+   "away": 0.7686
+  },
+  {
+   "minute": 42,
+   "home": 0.0559,
+   "draw": 0.1775,
+   "away": 0.7666
+  },
+  {
+   "minute": 43,
+   "home": 0.1045,
+   "draw": 0.2391,
+   "away": 0.6565
+  },
+  {
+   "minute": 44,
+   "home": 0.1037,
+   "draw": 0.2402,
+   "away": 0.656
+  },
+  {
+   "minute": 45,
+   "home": 0.1018,
+   "draw": 0.2403,
+   "away": 0.6579
+  },
+  {
+   "minute": 46,
+   "home": 0.0998,
+   "draw": 0.2403,
+   "away": 0.6599
+  },
+  {
+   "minute": 47,
+   "home": 0.0978,
+   "draw": 0.2402,
+   "away": 0.662
+  },
+  {
+   "minute": 48,
+   "home": 0.0958,
+   "draw": 0.2401,
+   "away": 0.6641
+  },
+  {
+   "minute": 45,
+   "home": 0.1018,
+   "draw": 0.2403,
+   "away": 0.6579
+  },
+  {
+   "minute": 46,
+   "home": 0.0998,
+   "draw": 0.2403,
+   "away": 0.6599
+  },
+  {
+   "minute": 47,
+   "home": 0.0978,
+   "draw": 0.2402,
+   "away": 0.662
+  },
+  {
+   "minute": 48,
+   "home": 0.0995,
+   "draw": 0.2439,
+   "away": 0.6566
+  },
+  {
+   "minute": 49,
+   "home": 0.1012,
+   "draw": 0.2474,
+   "away": 0.6514
+  },
+  {
+   "minute": 50,
+   "home": 0.1056,
+   "draw": 0.2535,
+   "away": 0.6409
+  },
+  {
+   "minute": 51,
+   "home": 0.0965,
+   "draw": 0.2467,
+   "away": 0.6568
+  },
+  {
+   "minute": 52,
+   "home": 0.0941,
+   "draw": 0.2462,
+   "away": 0.6597
+  },
+  {
+   "minute": 53,
+   "home": 0.0917,
+   "draw": 0.2456,
+   "away": 0.6626
+  },
+  {
+   "minute": 54,
+   "home": 0.0893,
+   "draw": 0.245,
+   "away": 0.6657
+  },
+  {
+   "minute": 55,
+   "home": 0.0868,
+   "draw": 0.2442,
+   "away": 0.669
+  },
+  {
+   "minute": 56,
+   "home": 0.0906,
+   "draw": 0.2504,
+   "away": 0.659
+  },
+  {
+   "minute": 57,
+   "home": 0.0879,
+   "draw": 0.2494,
+   "away": 0.6627
+  },
+  {
+   "minute": 58,
+   "home": 0.0851,
+   "draw": 0.2483,
+   "away": 0.6666
+  },
+  {
+   "minute": 59,
+   "home": 0.0824,
+   "draw": 0.247,
+   "away": 0.6706
+  },
+  {
+   "minute": 60,
+   "home": 0.0796,
+   "draw": 0.2456,
+   "away": 0.6748
+  },
+  {
+   "minute": 61,
+   "home": 0.2742,
+   "draw": 0.5031,
+   "away": 0.2227
+  },
+  {
+   "minute": 62,
+   "home": 0.2698,
+   "draw": 0.5109,
+   "away": 0.2193
+  },
+  {
+   "minute": 63,
+   "home": 0.2606,
+   "draw": 0.5196,
+   "away": 0.2198
+  },
+  {
+   "minute": 64,
+   "home": 0.2559,
+   "draw": 0.528,
+   "away": 0.2161
+  },
+  {
+   "minute": 65,
+   "home": 0.2511,
+   "draw": 0.5366,
+   "away": 0.2122
+  },
+  {
+   "minute": 66,
+   "home": 0.2658,
+   "draw": 0.5428,
+   "away": 0.1915
+  },
+  {
+   "minute": 67,
+   "home": 0.2602,
+   "draw": 0.552,
+   "away": 0.1878
+  },
+  {
+   "minute": 68,
+   "home": 0.2544,
+   "draw": 0.5617,
+   "away": 0.1839
+  },
+  {
+   "minute": 69,
+   "home": 0.2485,
+   "draw": 0.5716,
+   "away": 0.18
+  },
+  {
+   "minute": 70,
+   "home": 0.2423,
+   "draw": 0.5818,
+   "away": 0.1758
+  },
+  {
+   "minute": 71,
+   "home": 0.236,
+   "draw": 0.5924,
+   "away": 0.1716
+  },
+  {
+   "minute": 72,
+   "home": 0.2294,
+   "draw": 0.6034,
+   "away": 0.1671
+  },
+  {
+   "minute": 73,
+   "home": 0.2227,
+   "draw": 0.6148,
+   "away": 0.1625
+  },
+  {
+   "minute": 74,
+   "home": 0.2139,
+   "draw": 0.6269,
+   "away": 0.1593
+  },
+  {
+   "minute": 75,
+   "home": 0.2067,
+   "draw": 0.639,
+   "away": 0.1542
+  },
+  {
+   "minute": 76,
+   "home": 0.1992,
+   "draw": 0.6516,
+   "away": 0.1492
+  },
+  {
+   "minute": 77,
+   "home": 0.1916,
+   "draw": 0.6646,
+   "away": 0.1438
+  },
+  {
+   "minute": 78,
+   "home": 0.1838,
+   "draw": 0.6781,
+   "away": 0.1381
+  },
+  {
+   "minute": 79,
+   "home": 0.1757,
+   "draw": 0.6921,
+   "away": 0.1323
+  },
+  {
+   "minute": 80,
+   "home": 0.1673,
+   "draw": 0.7065,
+   "away": 0.1262
+  },
+  {
+   "minute": 81,
+   "home": 0.1586,
+   "draw": 0.7215,
+   "away": 0.1199
+  },
+  {
+   "minute": 82,
+   "home": 0.1497,
+   "draw": 0.737,
+   "away": 0.1133
+  },
+  {
+   "minute": 83,
+   "home": 0.1404,
+   "draw": 0.7531,
+   "away": 0.1065
+  },
+  {
+   "minute": 84,
+   "home": 0.1157,
+   "draw": 0.7715,
+   "away": 0.1128
+  },
+  {
+   "minute": 85,
+   "home": 0.107,
+   "draw": 0.7887,
+   "away": 0.1043
+  },
+  {
+   "minute": 86,
+   "home": 0.098,
+   "draw": 0.8065,
+   "away": 0.0955
+  },
+  {
+   "minute": 87,
+   "home": 0.0887,
+   "draw": 0.8249,
+   "away": 0.0864
+  },
+  {
+   "minute": 88,
+   "home": 0.079,
+   "draw": 0.8441,
+   "away": 0.077
+  },
+  {
+   "minute": 89,
+   "home": 0.0689,
+   "draw": 0.8639,
+   "away": 0.0672
+  },
+  {
+   "minute": 90,
+   "home": 0.0584,
+   "draw": 0.8845,
+   "away": 0.057
+  },
+  {
+   "minute": 91,
+   "home": 0.0454,
+   "draw": 0.9059,
+   "away": 0.0488
+  },
+  {
+   "minute": 92,
+   "home": 0.0347,
+   "draw": 0.9281,
+   "away": 0.0372
+  },
+  {
+   "minute": 93,
+   "home": 0.0235,
+   "draw": 0.9512,
+   "away": 0.0253
+  },
+  {
+   "minute": 94,
+   "home": 0.012,
+   "draw": 0.9751,
+   "away": 0.0129
+  },
+  {
+   "minute": 95,
+   "home": 0.012,
+   "draw": 0.9751,
+   "away": 0.0129
+  },
+  {
+   "minute": 96,
+   "home": 0.012,
+   "draw": 0.9751,
+   "away": 0.0129
+  }
+ ],
+ "summary": {
+  "minute": 96,
+  "score": {
+   "home": 1,
+   "away": 1
+  },
+  "win_probability": {
+   "home": 0.012,
+   "draw": 0.975,
+   "away": 0.013
+  },
+  "teams": {
+   "HBR": {
+    "xg": 0.8,
+    "shots": 6,
+    "passes": 534,
+    "pass_completion": 0.781,
+    "xt_added": 1.048,
+    "possession": 0.413
+   },
+   "KGM": {
+    "xg": 1.95,
+    "shots": 14,
+    "passes": 571,
+    "pass_completion": 0.841,
+    "xt_added": 2.234,
+    "possession": 0.587
+   }
+  },
+  "momentum": {
+   "home_share": 0.366,
+   "away_share": 0.634
+  }
+ },
+ "players": {
+  "HBR-01": {
+   "id": "HBR-01",
+   "name": "Jamal Whitfield",
+   "team_id": "HBR",
+   "passes": 15,
+   "passes_completed": 8,
+   "difficult_completed": 0,
+   "shots": 0,
+   "goals": 0,
+   "xg": 0.0,
+   "xt_added": 0.004,
+   "decision_value": 0.038,
+   "decisions": 10,
+   "best_decisions": 5,
+   "distance_m": 3511.89,
+   "top_speed_kmh": 26.676,
+   "touches": 15,
+   "pass_completion": 0.533
+  },
+  "HBR-05": {
+   "id": "HBR-05",
+   "name": "Felipe Brightwell",
+   "team_id": "HBR",
+   "passes": 30,
+   "passes_completed": 26,
+   "difficult_completed": 1,
+   "shots": 0,
+   "goals": 0,
+   "xg": 0.0,
+   "xt_added": 0.018,
+   "decision_value": -0.055,
+   "decisions": 37,
+   "best_decisions": 11,
+   "distance_m": 9000.922,
+   "top_speed_kmh": 28.836,
+   "touches": 38,
+   "pass_completion": 0.867
+  },
+  "HBR-06": {
+   "id": "HBR-06",
+   "name": "Max Almeida",
+   "team_id": "HBR",
+   "passes": 53,
+   "passes_completed": 52,
+   "difficult_completed": 0,
+   "shots": 0,
+   "goals": 0,
+   "xg": 0.0,
+   "xt_added": 0.021,
+   "decision_value": -0.074,
+   "decisions": 60,
+   "best_decisions": 16,
+   "distance_m": 8551.076,
+   "top_speed_kmh": 28.188,
+   "touches": 61,
+   "pass_completion": 0.981
+  },
+  "HBR-04": {
+   "id": "HBR-04",
+   "name": "Jaden Udeh",
+   "team_id": "HBR",
+   "passes": 31,
+   "passes_completed": 25,
+   "difficult_completed": 0,
+   "shots": 0,
+   "goals": 0,
+   "xg": 0.0,
+   "xt_added": 0.014,
+   "decision_value": -0.044,
+   "decisions": 34,
+   "best_decisions": 13,
+   "distance_m": 8828.956,
+   "top_speed_kmh": 28.368,
+   "touches": 40,
+   "pass_completion": 0.806
+  },
+  "HBR-03": {
+   "id": "HBR-03",
+   "name": "Arlo Ibarra",
+   "team_id": "HBR",
+   "passes": 23,
+   "passes_completed": 20,
+   "difficult_completed": 0,
+   "shots": 0,
+   "goals": 0,
+   "xg": 0.0,
+   "xt_added": 0.028,
+   "decision_value": -0.021,
+   "decisions": 17,
+   "best_decisions": 6,
+   "distance_m": 8744.447,
+   "top_speed_kmh": 30.06,
+   "touches": 24,
+   "pass_completion": 0.87
+  },
+  "HBR-02": {
+   "id": "HBR-02",
+   "name": "Javier Kettering",
+   "team_id": "HBR",
+   "passes": 31,
+   "passes_completed": 27,
+   "difficult_completed": 0,
+   "shots": 0,
+   "goals": 0,
+   "xg": 0.0,
+   "xt_added": 0.071,
+   "decision_value": -0.088,
+   "decisions": 25,
+   "best_decisions": 8,
+   "distance_m": 12099.778,
+   "top_speed_kmh": 30.204,
+   "touches": 35,
+   "pass_completion": 0.871
+  },
+  "HBR-16": {
+   "id": "HBR-16",
+   "name": "Tariq Adeyemi",
+   "team_id": "HBR",
+   "passes": 75,
+   "passes_completed": 59,
+   "difficult_completed": 0,
+   "shots": 0,
+   "goals": 0,
+   "xg": 0.0,
+   "xt_added": 0.024,
+   "decision_value": -0.12,
+   "decisions": 83,
+   "best_decisions": 17,
+   "distance_m": 8885.219,
+   "top_speed_kmh": 28.476,
+   "touches": 85,
+   "pass_completion": 0.787
+  },
+  "HBR-08": {
+   "id": "HBR-08",
+   "name": "Mateo Wakefield",
+   "team_id": "HBR",
+   "passes": 45,
+   "passes_completed": 31,
+   "difficult_completed": 0,
+   "shots": 0,
+   "goals": 0,
+   "xg": 0.0,
+   "xt_added": 0.073,
+   "decision_value": -0.094,
+   "decisions": 57,
+   "best_decisions": 13,
+   "distance_m": 9380.533,
+   "top_speed_kmh": 30.132,
+   "touches": 60,
+   "pass_completion": 0.689
+  },
+  "HBR-10": {
+   "id": "HBR-10",
+   "name": "Hugo Sorensen",
+   "team_id": "HBR",
+   "passes": 64,
+   "passes_completed": 53,
+   "difficult_completed": 0,
+   "shots": 0,
+   "goals": 0,
+   "xg": 0.0,
+   "xt_added": 0.103,
+   "decision_value": -0.063,
+   "decisions": 75,
+   "best_decisions": 21,
+   "distance_m": 9026.596,
+   "top_speed_kmh": 29.34,
+   "touches": 84,
+   "pass_completion": 0.828
+  },
+  "HBR-09": {
+   "id": "HBR-09",
+   "name": "Oscar Gallagher",
+   "team_id": "HBR",
+   "passes": 70,
+   "passes_completed": 45,
+   "difficult_completed": 0,
+   "shots": 3,
+   "goals": 1,
+   "xg": 0.446,
+   "xt_added": 0.215,
+   "decision_value": 0.034,
+   "decisions": 73,
+   "best_decisions": 35,
+   "distance_m": 9289.518,
+   "top_speed_kmh": 29.592,
+   "touches": 88,
+   "pass_completion": 0.643
+  },
+  "HBR-19": {
+   "id": "HBR-19",
+   "name": "Omar Sato",
+   "team_id": "HBR",
+   "passes": 72,
+   "passes_completed": 52,
+   "difficult_completed": 0,
+   "shots": 3,
+   "goals": 0,
+   "xg": 0.359,
+   "xt_added": 0.4,
+   "decision_value": 0.126,
+   "decisions": 83,
+   "best_decisions": 51,
+   "distance_m": 10043.161,
+   "top_speed_kmh": 30.24,
+   "touches": 98,
+   "pass_completion": 0.722
+  },
+  "HBR-14": {
+   "id": "HBR-14",
+   "name": "Isaac Ashworth",
+   "team_id": "HBR",
+   "passes": 4,
+   "passes_completed": 4,
+   "difficult_completed": 0,
+   "shots": 0,
+   "goals": 0,
+   "xg": 0.0,
+   "xt_added": -0.013,
+   "decision_value": -0.01,
+   "decisions": 3,
+   "best_decisions": 1,
+   "distance_m": 3205.473,
+   "top_speed_kmh": 28.98,
+   "touches": 5,
+   "pass_completion": 1.0
+  },
+  "HBR-26": {
+   "id": "HBR-26",
+   "name": "Ryo Varga",
+   "team_id": "HBR",
+   "passes": 14,
+   "passes_completed": 9,
+   "difficult_completed": 0,
+   "shots": 0,
+   "goals": 0,
+   "xg": 0.0,
+   "xt_added": 0.067,
+   "decision_value": 0.03,
+   "decisions": 14,
+   "best_decisions": 5,
+   "distance_m": 2017.987,
+   "top_speed_kmh": 28.944,
+   "touches": 16,
+   "pass_completion": 0.643
+  },
+  "HBR-37": {
+   "id": "HBR-37",
+   "name": "Omar Fofana",
+   "team_id": "HBR",
+   "passes": 7,
+   "passes_completed": 6,
+   "difficult_completed": 0,
+   "shots": 0,
+   "goals": 0,
+   "xg": 0.0,
+   "xt_added": 0.022,
+   "decision_value": -0.024,
+   "decisions": 7,
+   "best_decisions": 3,
+   "distance_m": 1491.414,
+   "top_speed_kmh": 28.62,
+   "touches": 8,
+   "pass_completion": 0.857
+  },
+  "KGM-01": {
+   "id": "KGM-01",
+   "name": "Rio Lopes",
+   "team_id": "KGM",
+   "passes": 7,
+   "passes_completed": 5,
+   "difficult_completed": 0,
+   "shots": 0,
+   "goals": 0,
+   "xg": 0.0,
+   "xt_added": 0.004,
+   "decision_value": 0.002,
+   "decisions": 3,
+   "best_decisions": 2,
+   "distance_m": 3659.745,
+   "top_speed_kmh": 28.548,
+   "touches": 7,
+   "pass_completion": 0.714
+  },
+  "KGM-03": {
+   "id": "KGM-03",
+   "name": "Theo Quinn",
+   "team_id": "KGM",
+   "passes": 51,
+   "passes_completed": 47,
+   "difficult_completed": 0,
+   "shots": 0,
+   "goals": 0,
+   "xg": 0.0,
+   "xt_added": 0.1,
+   "decision_value": -0.025,
+   "decisions": 63,
+   "best_decisions": 27,
+   "distance_m": 11224.222,
+   "top_speed_kmh": 30.744,
+   "touches": 73,
+   "pass_completion": 0.922
+  },
+  "KGM-05": {
+   "id": "KGM-05",
+   "name": "Marco Whitfield",
+   "team_id": "KGM",
+   "passes": 30,
+   "passes_completed": 24,
+   "difficult_completed": 0,
+   "shots": 0,
+   "goals": 0,
+   "xg": 0.0,
+   "xt_added": 0.016,
+   "decision_value": -0.028,
+   "decisions": 36,
+   "best_decisions": 9,
+   "distance_m": 10446.973,
+   "top_speed_kmh": 29.016,
+   "touches": 36,
+   "pass_completion": 0.8
+  },
+  "KGM-04": {
+   "id": "KGM-04",
+   "name": "Finn Varga",
+   "team_id": "KGM",
+   "passes": 23,
+   "passes_completed": 22,
+   "difficult_completed": 0,
+   "shots": 0,
+   "goals": 0,
+   "xg": 0.0,
+   "xt_added": 0.015,
+   "decision_value": -0.022,
+   "decisions": 28,
+   "best_decisions": 6,
+   "distance_m": 7937.527,
+   "top_speed_kmh": 28.944,
+   "touches": 29,
+   "pass_completion": 0.957
+  },
+  "KGM-02": {
+   "id": "KGM-02",
+   "name": "Jaden Kettering",
+   "team_id": "KGM",
+   "passes": 33,
+   "passes_completed": 29,
+   "difficult_completed": 0,
+   "shots": 0,
+   "goals": 0,
+   "xg": 0.0,
+   "xt_added": 0.02,
+   "decision_value": -0.047,
+   "decisions": 34,
+   "best_decisions": 9,
+   "distance_m": 10988.577,
+   "top_speed_kmh": 30.96,
+   "touches": 39,
+   "pass_completion": 0.879
+  },
+  "KGM-06": {
+   "id": "KGM-06",
+   "name": "Kai Costa",
+   "team_id": "KGM",
+   "passes": 67,
+   "passes_completed": 60,
+   "difficult_completed": 0,
+   "shots": 0,
+   "goals": 0,
+   "xg": 0.0,
+   "xt_added": 0.045,
+   "decision_value": -0.148,
+   "decisions": 72,
+   "best_decisions": 23,
+   "distance_m": 9937.806,
+   "top_speed_kmh": 29.664,
+   "touches": 72,
+   "pass_completion": 0.896
+  },
+  "KGM-12": {
+   "id": "KGM-12",
+   "name": "Adebayo Ndiaye",
+   "team_id": "KGM",
+   "passes": 69,
+   "passes_completed": 58,
+   "difficult_completed": 0,
+   "shots": 0,
+   "goals": 0,
+   "xg": 0.0,
+   "xt_added": 0.055,
+   "decision_value": -0.089,
+   "decisions": 88,
+   "best_decisions": 16,
+   "distance_m": 10391.088,
+   "top_speed_kmh": 30.096,
+   "touches": 90,
+   "pass_completion": 0.841
+  },
+  "KGM-11": {
+   "id": "KGM-11",
+   "name": "Aaron Hollis",
+   "team_id": "KGM",
+   "passes": 34,
+   "passes_completed": 30,
+   "difficult_completed": 0,
+   "shots": 0,
+   "goals": 0,
+   "xg": 0.0,
+   "xt_added": 0.16,
+   "decision_value": 0.024,
+   "decisions": 39,
+   "best_decisions": 22,
+   "distance_m": 7342.044,
+   "top_speed_kmh": 30.924,
+   "touches": 44,
+   "pass_completion": 0.882
+  },
+  "KGM-10": {
+   "id": "KGM-10",
+   "name": "Arlo Ramos",
+   "team_id": "KGM",
+   "passes": 55,
+   "passes_completed": 43,
+   "difficult_completed": 0,
+   "shots": 2,
+   "goals": 0,
+   "xg": 0.272,
+   "xt_added": 0.568,
+   "decision_value": 0.177,
+   "decisions": 65,
+   "best_decisions": 40,
+   "distance_m": 4726.453,
+   "top_speed_kmh": 30.06,
+   "touches": 76,
+   "pass_completion": 0.782
+  },
+  "KGM-07": {
+   "id": "KGM-07",
+   "name": "Aaron Mansour",
+   "team_id": "KGM",
+   "passes": 48,
+   "passes_completed": 41,
+   "difficult_completed": 2,
+   "shots": 0,
+   "goals": 0,
+   "xg": 0.0,
+   "xt_added": 0.316,
+   "decision_value": -0.184,
+   "decisions": 51,
+   "best_decisions": 23,
+   "distance_m": 8592.958,
+   "top_speed_kmh": 29.916,
+   "touches": 58,
+   "pass_completion": 0.854
+  },
+  "KGM-09": {
+   "id": "KGM-09",
+   "name": "Darius Whitfield",
+   "team_id": "KGM",
+   "passes": 102,
+   "passes_completed": 78,
+   "difficult_completed": 0,
+   "shots": 12,
+   "goals": 1,
+   "xg": 1.68,
+   "xt_added": 0.783,
+   "decision_value": 0.589,
+   "decisions": 140,
+   "best_decisions": 48,
+   "distance_m": 10879.49,
+   "top_speed_kmh": 30.204,
+   "touches": 290,
+   "pass_completion": 0.765
+  },
+  "KGM-18": {
+   "id": "KGM-18",
+   "name": "Oisin Udeh",
+   "team_id": "KGM",
+   "passes": 18,
+   "passes_completed": 13,
+   "difficult_completed": 0,
+   "shots": 0,
+   "goals": 0,
+   "xg": 0.0,
+   "xt_added": 0.065,
+   "decision_value": 0.019,
+   "decisions": 19,
+   "best_decisions": 8,
+   "distance_m": 2485.294,
+   "top_speed_kmh": 29.844,
+   "touches": 24,
+   "pass_completion": 0.722
+  },
+  "KGM-13": {
+   "id": "KGM-13",
+   "name": "Javier Costa",
+   "team_id": "KGM",
+   "passes": 11,
+   "passes_completed": 11,
+   "difficult_completed": 0,
+   "shots": 0,
+   "goals": 0,
+   "xg": 0.0,
+   "xt_added": 0.029,
+   "decision_value": -0.002,
+   "decisions": 12,
+   "best_decisions": 2,
+   "distance_m": 2414.498,
+   "top_speed_kmh": 29.448,
+   "touches": 12,
+   "pass_completion": 1.0
+  },
+  "KGM-19": {
+   "id": "KGM-19",
+   "name": "Enzo Abara",
+   "team_id": "KGM",
+   "passes": 23,
+   "passes_completed": 19,
+   "difficult_completed": 0,
+   "shots": 0,
+   "goals": 0,
+   "xg": 0.0,
+   "xt_added": 0.058,
+   "decision_value": 0.004,
+   "decisions": 25,
+   "best_decisions": 16,
+   "distance_m": 3842.242,
+   "top_speed_kmh": 29.268,
+   "touches": 29,
+   "pass_completion": 0.826
+  }
+ }
+}
