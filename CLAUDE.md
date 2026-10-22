@@ -105,6 +105,7 @@ and Tue is buffer before submitting. Aim for one thin end-to-end path working fi
 event → analyst → one agent → overlay in the browser. Then build out from there.
 
 ## Housekeeping
-- It isn't a git repo yet: `git init`, then push to a **public** GitHub repo.
+- Public repo: https://github.com/jonathan-cronin/inside-the-game (branch `main`). Commits use the
+  GitHub noreply email (set in local git config).
 - `_to_delete/` holds old setup bundles and is safe to delete (it's in .gitignore).
 - `pip install -r requirements.txt` (numpy, pandas, scikit-learn, scipy, pytest).
