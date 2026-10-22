@@ -7,7 +7,7 @@ This project was started in a separate Claude session, and this file is the only
 - Microsoft x Premier League "Inside the Game: Developer Hackathon". Official rules are in the
   GitHub repo microsoft/insidethegamehackathon (OFFICIAL RULES.md).
 - **Submission deadline: Tue 27 Oct 2026, 11:59 PM Pacific = Wed 28 Oct, about 07:00 UK.** Treat
-  Tuesday evening UK time as the real deadline. Jono is registered and entering solo.
+  Tuesday evening UK time as the real deadline.
 - The submission needs:
   - a public GitHub repo
   - a demo video under 2 minutes on YouTube or Vimeo, with no third-party trademarks or
@@ -23,7 +23,6 @@ This project was started in a separate Claude session, and this file is the only
   - real-world impact
   - UX and demo presentation
   - fit to category
-- Prize targets: Grand Prize, plus the **Best Multi-Agent System** or Best Use of Foundry category prize.
 - The brief describes one pipeline in five stages: ingest → interpret → explain → render →
   personalise (analyst vs casual fan, favourite club or player, language).
 
@@ -76,7 +75,7 @@ every number is checked against the simulator's known true values.
 - Pressures are slightly high and take-ons slightly low compared with real ranges. Fine for now.
 
 ## Next steps, in order
-1. **Azure/Foundry.** Jono has a free Azure subscription. Still to do: budget alert, a Foundry
+1. **Azure/Foundry.** Still to do: budget alert, a Foundry
    project, one small "mini" chat model deployed, endpoint and deployment name in `.env`.
 2. **MCP server** (`itg/mcp`) exposing the analyst as tools: `get_match_state`,
    `get_player_stats`, `get_recent_insights`, `explain_decision(event_id)`,
@@ -99,9 +98,8 @@ every number is checked against the simulator's known true values.
 6. **Demo video.** One 20-second "money shot": the same moment as an analyst breakdown, then as a
    Spanish-language story for a casual fan following one player.
 
-## Jono's time this week
-Long build sessions on **Thu, Sat and Mon**, evenings on Wed, Fri and Sun (he's working days),
-and Tue is buffer before submitting. Aim for one thin end-to-end path working first:
+## Build approach
+Aim for one thin end-to-end path working first:
 event → analyst → one agent → overlay in the browser. Then build out from there.
 
 ## Housekeeping
